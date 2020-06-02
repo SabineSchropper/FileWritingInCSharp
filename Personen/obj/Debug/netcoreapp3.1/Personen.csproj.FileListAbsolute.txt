@@ -1,0 +1,13 @@
+C:\Users\DCV\C#\Personen\Personen\bin\Debug\netcoreapp3.1\Personen.exe
+C:\Users\DCV\C#\Personen\Personen\bin\Debug\netcoreapp3.1\Personen.deps.json
+C:\Users\DCV\C#\Personen\Personen\bin\Debug\netcoreapp3.1\Personen.runtimeconfig.json
+C:\Users\DCV\C#\Personen\Personen\bin\Debug\netcoreapp3.1\Personen.runtimeconfig.dev.json
+C:\Users\DCV\C#\Personen\Personen\bin\Debug\netcoreapp3.1\Personen.dll
+C:\Users\DCV\C#\Personen\Personen\bin\Debug\netcoreapp3.1\Personen.pdb
+C:\Users\DCV\C#\Personen\Personen\obj\Debug\netcoreapp3.1\Personen.csprojAssemblyReference.cache
+C:\Users\DCV\C#\Personen\Personen\obj\Debug\netcoreapp3.1\Personen.AssemblyInfoInputs.cache
+C:\Users\DCV\C#\Personen\Personen\obj\Debug\netcoreapp3.1\Personen.AssemblyInfo.cs
+C:\Users\DCV\C#\Personen\Personen\obj\Debug\netcoreapp3.1\Personen.csproj.CoreCompileInputs.cache
+C:\Users\DCV\C#\Personen\Personen\obj\Debug\netcoreapp3.1\Personen.dll
+C:\Users\DCV\C#\Personen\Personen\obj\Debug\netcoreapp3.1\Personen.pdb
+C:\Users\DCV\C#\Personen\Personen\obj\Debug\netcoreapp3.1\Personen.genruntimeconfig.cache
